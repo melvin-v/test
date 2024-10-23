@@ -1,0 +1,24 @@
+.parking-panel {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 0.5rem;
+    padding: 20px;
+    max-width: 700px;
+    margin: 20px auto;
+    /* Centra el panel */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    text-align: center;
+    color: #343a40;
+}
+
+.statistic-item {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #e9ecef;
+    border-radius: 0.25rem;
+    font-size: 16px;
+    color: #495057;
+}
